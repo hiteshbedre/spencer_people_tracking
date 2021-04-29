@@ -322,3 +322,4 @@ Most of the ROS packages in this repository are released under a BSD license. Fo
 [5] Beyer L. and Hermans A. and Linder T. and Arras K. O. and Leibe B. *Deep Person Detection in 2D Range Data*. IEEE Robotics and Automation Letters 3(3), pp. 2726-2733, 2018.
 
 [6] Jia D. and Hermans A. and Leibe B. *DR-SPAAM: A Spatial-Attention and Auto-regressive Model for Person Detection in 2D Range Data*. IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS'20), 2020.
+Trigger 1
